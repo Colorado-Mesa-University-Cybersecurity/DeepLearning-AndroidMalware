@@ -1,0 +1,19 @@
+name: DeepLearning
+
+channels:
+
+- conda-forge
+
+- fastai
+
+- defaults
+
+dependencies:
+
+- fastai
+
+- keras
+
+- scikit-learn
+
+- pandas
